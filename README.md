@@ -4,7 +4,7 @@
 
 ### Open-Source Stats
 ![Total Stars](https://img.shields.io/github/stars/kunlecreates?label=Total%20Stars&style=flat)
-![Total Repos](https://img.shields.io/github/repo/kunlecreates?label=Public%20Repos&style=flat)
+![Total Repos](https://img.shields.io/github/repos/kunlecreates?label=Public%20Repos&style=flat)
 
 <!--
 **kunlecreates/kunlecreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
