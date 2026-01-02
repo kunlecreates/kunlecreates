@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Kunle Ogunlana
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=kunlecreates.kunlecreates)
+![GitHub Followers](https://img.shields.io/github/followers/kunlecreates?label=Followers&style=flat)
+
+### Open-Source Stats
+![Total Stars](https://img.shields.io/github/stars/kunlecreates?label=Total%20Stars&style=flat)
+![Total Repos](https://img.shields.io/github/repo/kunlecreates?label=Public%20Repos&style=flat)
 
 <!--
 **kunlecreates/kunlecreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
